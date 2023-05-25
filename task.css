@@ -1,0 +1,54 @@
+#a{
+border:red solid 2px;
+box-shadow:3px 3px 3px orange;
+border-radius:0px 15px 0px 15px;
+text-shadow:3px 3px 1.5px red;
+}
+#b{
+border:violet dotted 2px;
+box-shadow:3px 3px 3px purple;
+border-radius:20px;
+text-shadow:3px 3px 1.5px blue;
+}
+#c{
+border:teal dashed 2px;
+box-shadow:3px 3px 3px skyblue;
+border-radius:10px 0px 10px 0px;
+text-shadow:3px 3px 1.5px navy;
+}
+#d{
+border:green double 5px;
+box-shadow:3px 3px 3px darkseagreen;
+border-radius:3px;
+text-shadow:3px 3px 1.5px maroon;
+}#e{
+border:hotpink groove 5px;
+box-shadow:3px 3px 3px pink;
+border-radius:10px 10px 20px 20px;
+text-shadow:3px 3px 1.5px orange;}
+#f{
+border:navy solid 2px;
+box-shadow:3px 3px 3px aqua;
+border-radius:20px;
+text-shadow:3px 3px 1.5px red;}
+#g{
+border:yellow dotted 2px;
+box-shadow:3px 3px 3px orange;
+border-radius:40px;
+text-shadow:3px 3px 1.5px hotpink;}
+#h{
+border:maroon dashed 2px;
+box-shadow:3px 3px 3px red;
+border-radius:0px 15px 15px 0px;
+text-shadow:3px 3px 1.5px green;}
+#i{
+border:Lime double 5px;
+box-shadow:3px 3px 3px green;
+border-radius:10px 0px 15px 0px;
+text-shadow:3px 3px 1.5px Brown;
+}#s{
+border:hotpink groove 5px;
+box-shadow:3px 3px 3px pink;
+border-radius:10px;
+text-shadow:3px 3px 1.5px teal;
+}
